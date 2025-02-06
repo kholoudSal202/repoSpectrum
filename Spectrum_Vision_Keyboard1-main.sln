@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.StarterAssets", "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj", "{1A8D6FAE-35D4-1235-0B39-722AC80B2BAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{4A527A6A-F585-CEE5-73AC-10CD1F261A7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.SpatialKeyboard.Editor", "Unity.XR.Interaction.Toolkit.Samples.SpatialKeyboard.Editor.csproj", "{F320DBCD-3A0B-27D1-1A5C-7ABF141C7889}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{CA3279C0-8FB2-78C5-16FF-F57D31F02D5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.SpatialKeyboard", "Unity.XR.Interaction.Toolkit.Samples.SpatialKeyboard.csproj", "{3064532A-88A5-F29C-9304-5EF971BF65C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator", "Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj", "{A794D02B-80F7-5E4A-1724-D36EBF07DF27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor", "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj", "{2D2C425C-7105-317A-B5DF-0EBA93E9C92F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A8D6FAE-35D4-1235-0B39-722AC80B2BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A8D6FAE-35D4-1235-0B39-722AC80B2BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A8D6FAE-35D4-1235-0B39-722AC80B2BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A8D6FAE-35D4-1235-0B39-722AC80B2BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A527A6A-F585-CEE5-73AC-10CD1F261A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A527A6A-F585-CEE5-73AC-10CD1F261A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A527A6A-F585-CEE5-73AC-10CD1F261A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A527A6A-F585-CEE5-73AC-10CD1F261A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F320DBCD-3A0B-27D1-1A5C-7ABF141C7889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F320DBCD-3A0B-27D1-1A5C-7ABF141C7889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F320DBCD-3A0B-27D1-1A5C-7ABF141C7889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F320DBCD-3A0B-27D1-1A5C-7ABF141C7889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA3279C0-8FB2-78C5-16FF-F57D31F02D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA3279C0-8FB2-78C5-16FF-F57D31F02D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA3279C0-8FB2-78C5-16FF-F57D31F02D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA3279C0-8FB2-78C5-16FF-F57D31F02D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3064532A-88A5-F29C-9304-5EF971BF65C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3064532A-88A5-F29C-9304-5EF971BF65C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3064532A-88A5-F29C-9304-5EF971BF65C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3064532A-88A5-F29C-9304-5EF971BF65C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A794D02B-80F7-5E4A-1724-D36EBF07DF27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A794D02B-80F7-5E4A-1724-D36EBF07DF27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A794D02B-80F7-5E4A-1724-D36EBF07DF27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A794D02B-80F7-5E4A-1724-D36EBF07DF27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D2C425C-7105-317A-B5DF-0EBA93E9C92F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D2C425C-7105-317A-B5DF-0EBA93E9C92F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D2C425C-7105-317A-B5DF-0EBA93E9C92F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D2C425C-7105-317A-B5DF-0EBA93E9C92F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
